@@ -1,1 +1,1 @@
-I love to play games! Wee!
+This is a fun choose your own adventure game I made about my band.
